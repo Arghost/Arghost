@@ -50,7 +50,6 @@ Collection of five full analytics projects developed during the Data Analytics c
 - **Loan default:** risk and profit trade offs for credit decisions.  
 - **Student outcomes:** drivers of performance and completion.
 
-→ `github.com/TU-USUARIO/data-analytics-portfolio`  
 → Live view: **[rtorres.tech](https://rtorres.tech)**
 
 ---
